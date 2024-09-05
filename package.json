@@ -1,0 +1,19 @@
+{
+  "name": "cloudflare-r2-website",
+  "version": "1.0.0",
+  "description": "This project helps you setup a cloudflare based website when you have more than 20000 pages on your cloudflare pages project.",
+  "main": "setup_cloudflare.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cloudflare",
+    "r2",
+    "pages",
+    "setup",
+    "github",
+    "workflows"
+  ],
+  "author": "Dipankar Sarkar",
+  "license": "ISC"
+}
